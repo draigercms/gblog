@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Draiger's Gatsby Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Draiger-CMS`,
+      summary: `Non-profit Foundation from Europe/London.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A Project design with Gatsby Blog.`,
+    siteUrl: `https://draigercmp.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `draigercms`,
     },
   },
   plugins: [
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Draiger's Gatsby Blog RSS Feed",
           },
         ],
       },
@@ -110,7 +110,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Draiger's Gatsby Blog`,
         short_name: `Gatsby`,
         start_url: `/`,
         background_color: `#ffffff`,
