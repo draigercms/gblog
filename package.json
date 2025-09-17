@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "draiger's-gatsby-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "A Project Design with Gatsby Blog.",
+  "version": "1.1.0",
+  "author": "Draiger-CMS <jkrebian@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/draigercms/gblog/issues"
   },
   "dependencies": {
     "@fontsource/merriweather": "^5.0.8",
@@ -28,14 +28,14 @@
   "devDependencies": {
     "prettier": "^2.8.8"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/draigercms/gblog#readme",
   "keywords": [
     "gatsby"
   ],
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/draigercms/gblog.git"
   },
   "scripts": {
     "build": "gatsby build",
